@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="Java/src"/>
+	<classpathentry kind="src" path="target/generated-sources"/>
+	<classpathentry kind="lib" path="Java/jars/antlr-4.4-complete.jar"/>
+	<classpathentry kind="lib" path="Java/jars/jing.jar"/>
+	<classpathentry kind="lib" path="Java/jars/trang.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
