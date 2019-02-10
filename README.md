@@ -1,5 +1,5 @@
 # ILP: Implementation of a Programming Language 
-This material was introduced in [the DLP class](https://www-master.ufr-info-p6.jussieu.fr/2018/DLP) for the [software engineering](http://www-master.ufr-info-p6.jussieu.fr/parcours/stl/) students within the [Sorbonne University: Piere and Marie Curie University](https://www.sorbonne-universite.fr) in Paris.
+This material was introduced in [the DLP class](https://www-master.ufr-info-p6.jussieu.fr/2018/DLP) for the [software engineering](http://www-master.ufr-info-p6.jussieu.fr/parcours/stl/) students within the [Sorbonne University: Pierre and Marie Curie University](https://www.sorbonne-universite.fr) in Paris.
 
 ## ILP features: 
 - high level language, type Javascript / Smalltalk.
